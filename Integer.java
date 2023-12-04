@@ -25,7 +25,7 @@ public class Integer{
 	if(number2 < number1 && number2 < number3 && number1 < number3) 
 		System.out.printf("%d %d %d", number1, number2, number3);
 
-	if(number2 < number2 && number1 < number3 && number2 < number3) {
+	if(number2 < number2 && number1 < number3 && number2 < number3) 
 		System.out.printf("%d %d %d", number1, number2, number3);
 
 
